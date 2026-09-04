@@ -3,9 +3,9 @@ self.__dynamic$config = {
 	encoding: "xor",
 	mode: "production",
 	logLevel: 0,
-		bare: {
-		version: 3,
-		path: "https://mercurywork.shop",
+	bare: {
+		version: 2,
+		path: "https://edunblock.com",
 	},
 	tab: {
 		title: null,
