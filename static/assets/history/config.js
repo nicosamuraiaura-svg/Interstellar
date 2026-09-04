@@ -3,12 +3,10 @@ self.__dynamic$config = {
 	encoding: "xor",
 	mode: "production",
 	logLevel: 0,
-	bare: [
-		{
-			version: 3,
-			path: "https://tomp.app",
-		}
-	],
+	bare: {
+		version: 3,
+		path: "https://tomp.app",
+	},
 	tab: {
 		title: null,
 		icon: null,
